@@ -11,4 +11,4 @@ Though the graphs show a decline in the pandemic, hope that the situation improv
  ![](poly-graph.png)
  
  ## Poly-regression graph(based on data till 18 may,2020)
- ![](graph6.png)
+ ![](poly-graph(2).png)
